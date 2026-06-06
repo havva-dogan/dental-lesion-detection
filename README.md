@@ -1,4 +1,4 @@
-# Dental White Lesion Detection
+# Dental Lesion Detection
 
 Semantic segmentation of dental white lesions in clinical images using a U-Net architecture trained on Google Colab with GPU acceleration.
 
