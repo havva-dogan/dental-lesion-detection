@@ -1,7 +1,5 @@
 # Dental Lesion Detection
 
-Semantic segmentation of dental white lesions in clinical images using a U-Net architecture trained on Google Colab with GPU acceleration.
-
 ## What this project does
 
 Detects and segments white lesions in dental photographs — a computer vision approach to assist clinical image analysis. The model takes a grayscale dental image as input and outputs a pixel-level mask highlighting lesion regions.
